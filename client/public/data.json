@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "productName": "F. Ultimate Smart Watch",
+    "urlName": "f-ultimate-smart-watch",
+    "discount": true,
+    "nonDiscountedPrice": "2.000 ₺",
+    "price": "1.500 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "productName": "Premium Smart Watch",
+    "urlName": "premium-smart-watch",
+    "discount": false,
+    "nonDiscountedPrice": "1.500 ₺",
+    "price": "1.500 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "productName": "Luxury Smart Watch",
+    "urlName": "luxury-smart-watch",
+    "discount": true,
+    "nonDiscountedPrice": "3.000 ₺",
+    "price": "2.500 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "productName": "Eco Smart Watch",
+    "urlName": "eco-smart-watch",
+    "discount": false,
+    "nonDiscountedPrice": "1.200 ₺",
+    "price": "1.200 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "productName": "Classic Smart Watch",
+    "urlName": "classic-smart-watch",
+    "discount": true,
+    "nonDiscountedPrice": "2.500 ₺",
+    "price": "2.000 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "productName": "Sporty Smart Watch",
+    "urlName": "sporty-smart-watch",
+    "discount": false,
+    "nonDiscountedPrice": "1.800 ₺",
+    "price": "1.800 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "productName": "Stylish Smart Watch",
+    "urlName": "stylish-smart-watch",
+    "discount": true,
+    "nonDiscountedPrice": "4.000 ₺",
+    "price": "3.000 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 8,
+    "productName": "Business Smart Watch",
+    "urlName": "business-smart-watch",
+    "discount": false,
+    "nonDiscountedPrice": "2.200 ₺",
+    "price": "2.200 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 9,
+    "productName": "Travel Smart Watch",
+    "urlName": "travel-smart-watch",
+    "discount": true,
+    "nonDiscountedPrice": "3.500 ₺",
+    "price": "2.800 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  },
+  {
+    "id": 10,
+    "productName": "Modern Smart Watch",
+    "urlName": "modern-smart-watch",
+    "discount": false,
+    "nonDiscountedPrice": "2.800 ₺",
+    "price": "2.800 ₺",
+    "images": [
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
+      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
+    ],
+    "category": "Electronics"
+  }
+]
