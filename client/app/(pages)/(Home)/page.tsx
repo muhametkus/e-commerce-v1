@@ -14,7 +14,7 @@ export default function Home() {
       <ProductList />
 
       <div className="w-full flex justify-center">
-        <UrunlerCardSlider/>
+        {/* <UrunlerCardSlider/> */}
       </div>
     </div>
   );
