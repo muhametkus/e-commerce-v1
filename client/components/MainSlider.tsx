@@ -14,9 +14,9 @@ const MainSlider = () => {
       <CarouselContent>
         <CarouselItem className="tracking-in-expand-fwd-bottom flex flex-col lg:flex-row"><img className="duration-500 hover:scale-110" src="https://minimalin-demo.myshopify.com/cdn/shop/files/slide_-_600_x_600_5_600x.png" alt="" />
         <span className="tracking-in-expand-fwd-bottom gap-y-2 lg:gap-y-5 flex flex-col justify-center mr-5  pl-10 lg:pl-0">
-        <p className="text-2xl xl:text-4xl">Çocuk Kıyafetlerinde</p>
-        <p className="text-4xl xl:text-6xl">BÜYÜK</p>
-        <p className="text-6xl xl:text-8xl">KAMPANYA!</p>
+        <p className="text-xl xl:text-4xl">Çocuk Kıyafetlerinde</p>
+        <p className="text-3xl xl:text-6xl">BÜYÜK</p>
+        <p className="text-4xl xl:text-8xl">KAMPANYA!</p>
         <button className="btn bg-[#eae4dd] text-cyan-700 w-48 uppercase mx-auto lg:mx-0 my-5 lg:my-0">ÜRÜNLERİ İNCELE</button>
         
         </span>
