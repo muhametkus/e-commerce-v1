@@ -102,31 +102,5 @@
       "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
     ],
     "category": "Electronics"
-  },
-  {
-    "id": 9,
-    "productName": "Travel Smart Watch",
-    "urlName": "travel-smart-watch",
-    "discount": true,
-    "nonDiscountedPrice": "3.500 ₺",
-    "price": "2.800 ₺",
-    "images": [
-      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
-      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
-    ],
-    "category": "Electronics"
-  },
-  {
-    "id": 10,
-    "productName": "Modern Smart Watch",
-    "urlName": "modern-smart-watch",
-    "discount": false,
-    "nonDiscountedPrice": "2.800 ₺",
-    "price": "2.800 ₺",
-    "images": [
-      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_1024x1024.png",
-      "https://minimalin-demo.myshopify.com/cdn/shop/files/watch_2_1024x1024.png"
-    ],
-    "category": "Electronics"
   }
 ]
