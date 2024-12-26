@@ -26,7 +26,7 @@ const ProductCard = ({ product }: ProductProps) => {
   }
   
   return (
-    <Link href={`/${product.urlName}`}>
+    <Link href={`/product`}>
       <div
         className={`card w-72 mx-auto md:mx-0 shadow-xl duration-300 ${imgHover && "translate-y-[-20px]"}`}
         onMouseMove={() => setImgHover(true)}
