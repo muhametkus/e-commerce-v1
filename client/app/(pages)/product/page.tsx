@@ -3,7 +3,7 @@ import ProductDetailGallery from "@/components/ProductDetailPage/ProductDetailGa
 
 const page = () => {
   return (
-    <div className="w-[90%] rounded-xl mx-auto bg-[#eae4dd]">
+    <div className="w-[90%] rounded-xl mx-auto bg-[#eae4dd] mb-8">
       <div className="w-full flex h-full flex-col ">
         <div className="w-full flex flex-col md:flex-row">
           <div className="w-full md:w-1/2"><ProductDetailGallery/></div>
