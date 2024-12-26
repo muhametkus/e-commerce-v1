@@ -27,7 +27,7 @@ const ProductList = () => {
   if (error) return <p className="text-center text-red-500">Hata: {error.message}</p>;
 
   return (
-    <div className="w-[90%] mx-auto flex flex-wrap gap-y-7 justify-between mb-5">
+    <div className="w-[90%] mx-auto flex flex-wrap gap-y-7 gap-2 justify-center md:justify-between mb-5">
       {products.map((product: any) => (
         <ProductCard
           key={product.id}

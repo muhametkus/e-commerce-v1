@@ -10,7 +10,7 @@ import {
 
 const MainSlider = () => {
   return (
-    <Carousel className="bg-cyan-700 rounded-2xl w-[95%] lg:w-[90%] text-white mx-auto">
+    <Carousel className="bg-cyan-700 rounded-2xl w-[70%] lg:w-[90%] text-white mx-auto">
       <CarouselContent>
         <CarouselItem className="tracking-in-expand-fwd-bottom flex flex-col lg:flex-row"><img className="duration-500 hover:scale-110" src="https://minimalin-demo.myshopify.com/cdn/shop/files/slide_-_600_x_600_5_600x.png" alt="" />
         <span className="tracking-in-expand-fwd-bottom gap-y-2 lg:gap-y-5 flex flex-col justify-center mr-5  pl-10 lg:pl-0">
