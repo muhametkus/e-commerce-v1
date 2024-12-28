@@ -28,7 +28,7 @@ function ImageZoom({ imageURL, productName }: ImageZoomProps) {
         setActiveImage(imageURL)
     }, [imageURL]);
     return (
-        <div className="App p-4">
+        <div className="App">
             <LightGallery
                 onInit={onInit}
                 speed={500}

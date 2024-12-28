@@ -40,7 +40,7 @@ const ProductDetailGallery = () => {
       opts={{
         align: "start",
       }}
-      className="w-full max-w-sm md:max-w-md mx-auto"
+      className="w-full max-w-sm md:max-w-md mx-auto my-6"
     >
       <CarouselContent>
         {images.map((image, index) => (
